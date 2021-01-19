@@ -1,5 +1,3 @@
-@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
 ## "Hello!, Welcome to the Pooja Gaur Homepage." 
 
 You can use the [editor on GitHub](https://github.com/22PoojaGaur/22PoojaGaur.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
